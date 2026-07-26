@@ -57,10 +57,7 @@ Also use double blank line before a new section.
 
 
 
-![alt text for image](repo.png)
-
-
-
+This example no longer uses an image.
 
 ## Reference
 

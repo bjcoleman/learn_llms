@@ -8,7 +8,7 @@ The user prompt is what you type in the chat box. The system prompt sits “abov
 
 ## Try it in LM Studio
 
-1. Open Chat (`⌘1`) and load Qwen3.5 9B.
+1. Open Chat (`⌘1`) and load Gemma 4 E4B.
 2. Start a New chat.
 3. On the right sidebar, open the sliders (Model Parameters), not the hammer.
 4. Find System Prompt (under Prompt / Prediction). Click Edit System Prompt… or the field to add instructions.

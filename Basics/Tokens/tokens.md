@@ -15,7 +15,7 @@ Context length is the token budget for one chat turn: your system prompt + prior
 
 ## Try it in LM Studio
 
-1. Open Chat (`⌘1`) and load Qwen3.5 9B.
+1. Open Chat (`⌘1`) and load Gemma 4 E4B.
 2. Open Settings (`⌘,`) → Model Defaults. Note Default Context Length (e.g. `8192`), the token budget for chats.
 
 ![Context Length](context_length.png)

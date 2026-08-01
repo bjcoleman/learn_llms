@@ -6,6 +6,8 @@ Models do not read text as whole words. They split it into tokens, which are sma
 
 Roughly, 1 token ≈ ¾ of a word in English, but it varies. Code and unusual spellings often use more tokens.
 
+To see how text gets split into tokens, try the [OpenAI Tokenizer](https://platform.openai.com/tokenizer). Paste in a sentence, some code, or a long word and watch how it breaks apart. Different models tokenize a little differently, but the idea is the same.
+
 Context length is the token budget for one chat turn: your system prompt + prior messages + new prompt + the model’s reply, up to a max. When you hit the limit, older messages get dropped or generation stops.
 
 ## Why it matters
